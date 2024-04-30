@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "63j1x0DVzl+KZJKPsmBaZ26dx5iKnMSwqDS720ZZYUY=",
+  "Source": "NorthwindInventoryAPI",
+  "BasePath": "_content/NorthwindInventoryAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
